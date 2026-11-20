@@ -1,3 +1,4 @@
+# Auto-managed by `nix run .#update-version`. Manual edits will be overwritten by the next bump.
 {
   npmDepsHash = "sha256-1Rhn3GIK37H2xr1KaNXtO0ertzxD3t64AOlGLqoNNpg=";
   sourceHash = "sha256-CJ7z8GntqmklM61dMszvQtjE1MYJWKatWzgw61y7kO0=";
